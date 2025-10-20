@@ -19,7 +19,7 @@ if direction == "encode":
 elif direction == "decode":
     decrypt(text,shift)
 else :
-    print("the direction is invalis!!")  
+    print("the direction is invalid!!")  
 
    
  
